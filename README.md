@@ -6,7 +6,6 @@ I thrive on the thrill of collaboration, crafting engaging software solutions th
 
 - 🌟 Exploring the realms of imagination
 - 🖊️ Check out my website at [GenesisTech](http://genesistech.nl)
-- ✉️ Let’s chat at [sonumajuru@genesistech.nl](mailto:sonumajuru@genesistech.com)
 - 🌱 Currently searching for Shenron ( 神龍 シェンロン) of software development.
 - 🔍 By night, I’m secretly finding ways to upgrade my humanoid powers don't tell no one 🙊
 
