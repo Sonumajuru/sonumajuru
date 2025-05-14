@@ -5,7 +5,7 @@ I’m Simon Onumajuru, a passionate **Backend Software Engineer** who transforms
 I thrive on the thrill of collaboration, crafting engaging software solutions that spark innovation and drive change.
 
 - 🌟 Still exploring the realms of imagination and ideas....
-- 🎓 In Computer Science (Information & technology)
+- 🎓 Computer Science (Information & technology)
 - 🌱 Currently searching for Shenron 🐉 ( 神龍 シェンロン) of software development.
 - 🖊️ More about me ? 👉🏾  [GenesisTech](http://genesistech.nl)
 - 🔍 Almost forgot by night, I’m secretly finding ways to upgrade my humanoid powers tell no one 🙊
