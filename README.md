@@ -48,4 +48,7 @@ I thrive on the thrill of collaboration, crafting engaging software solutions th
 [![Monolithic](https://img.shields.io/badge/-Monolithic-6A1B9A?style=flat&logo=server&logoColor=white)](https://en.wikipedia.org/wiki/Monolithic_application)
 
 **Mobile Development**  
+[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)](https://reactnative.dev/) 
 [![Android](https://img.shields.io/badge/-Java%20Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
+
+
