@@ -10,5 +10,8 @@ I thrive on the thrill of collaboration, crafting engaging software solutions th
 - 🖊️ More about me ? 👉🏾  [GenesisTech](http://genesistech.nl)
 - 🔍 Almost forgot by night, I’m secretly finding ways to upgrade my humanoid powers tell no one 🙊
 
+![](https://komarev.com/ghpvc/?username=Sonumajuru&abbreviated=true)
+
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sonumajuru)](https://github.com/ryo-ma/github-profile-trophy)
