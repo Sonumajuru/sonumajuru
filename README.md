@@ -7,7 +7,6 @@ I thrive on the thrill of collaboration, crafting engaging software solutions th
 - 🌟 Still exploring the realms of imagination and ideas....
 - 🎓 Computer Science (Information & technology)
 - 🌱 Currently searching for Shenron 🐉 ( 神龍 シェンロン) of software development.
-- 🖊️ More about me ? 👉🏾 [GenesisTech](http://genesistech.nl)
 - 🔗 Connect with me:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sonumajuru)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sonumajuru)
