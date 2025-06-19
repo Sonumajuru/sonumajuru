@@ -9,7 +9,6 @@ I thrive on the thrill of collaboration, crafting engaging software solutions th
 - 🌱 Currently searching for Shenron 🐉 ( 神龍 シェンロン) of software development.
 - 🔗 Connect with me:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sonumajuru)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sonumajuru)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=flat&logo=firefox&logoColor=white)](https://genesistech.nl/portfolio)
 
 - 🔍 Almost forgot by night, I’m secretly finding ways to upgrade my humanoid powers — tell no one 🙊
