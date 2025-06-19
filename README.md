@@ -1,4 +1,4 @@
-# Hello 👋🏾!
+# Hola 👋🏾!
 
 I’m Simon Onumajuru, a passionate **FullStack Software Engineer** who transforms ideas into vibrant narratives. I once roamed the bustling streets of Yaounde then fought battles in Owerri, but now I’ve settled in the heart of Eindhoven, ready to weave tales that inspire and captivate. My journey is all about connecting people through the power of technology and creativity.
 
@@ -22,7 +22,7 @@ I thrive on the thrill of collaboration, crafting engaging software solutions th
 
 ---
 
-### 🧠 Technologies & Tools I Work With
+### 🧠 Technologies & Tools
 
 **Languages & Frontend Frameworks**  
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
