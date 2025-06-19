@@ -18,7 +18,7 @@ I thrive on the thrill of collaboration, crafting engaging software solutions th
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sonumajuru)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
