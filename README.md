@@ -53,8 +53,5 @@ I thrive on the thrill of collaboration, crafting engaging software solutions th
 
 ### 🔧 Side Projects
 
-#### <a href="https://www.leasesphere.com" target="_blank">LeaseSphere</a>
-LeaseSphere is a self-drive urban mobility and rental management platform. It allows property owners and managers to efficiently handle rent payments, monitor tenant status, track arrears, and access insightful analytics to optimize property performance.
-
-#### <a href="https://ohanezeculturalassociation.com" target="_blank">OCA - Eindhoven</a>
-The Ohaneze Cultural Association website is a digital hub for the Igbo community. It features event promotion, cultural education, leadership updates, and membership engagement tools. The platform strengthens cultural identity and fosters unity among members through news updates, multimedia content, and community outreach.
+- **[LeaseSphere](https://www.leasesphere.com)**: A rental management platform for Africa, enabling property owners to manage payments, tenants, arrears, and performance analytics.  
+- **[OCA - Eindhoven](https://ohanezeculturalassociation.com)**: A community website promoting Igbo culture through events, education, leadership updates, and member engagement tools.
