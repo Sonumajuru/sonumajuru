@@ -51,4 +51,13 @@ I thrive on the thrill of collaboration, crafting engaging software solutions th
 [![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)](https://reactnative.dev/) 
 [![Android](https://img.shields.io/badge/-Java%20Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
 
+### 🔧 Side Projects
+
+#### [LeaseSphere](https://www.leasesphere.com)
+LeaseSphere is a self-drive urban mobility and rental management platform. It allows property owners and managers to efficiently handle rent payments, monitor tenant status, track arrears, and access insightful analytics to optimize property performance.
+
+#### [OCA - Eindhoven](https://ohanezeculturalassociation.com)
+The Ohaneze Cultural Association website is a digital hub for the Igbo community. It features event promotion, cultural education, leadership updates, and membership engagement tools. The platform strengthens cultural identity and fosters unity among members through news updates, multimedia content, and community outreach.
+
+
 
